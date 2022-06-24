@@ -1,0 +1,7 @@
+.idea
+node_modules
+dist
+mySQL.ts
+notes.js
+Router.ts
+Server.ts
